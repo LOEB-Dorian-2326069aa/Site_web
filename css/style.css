@@ -1,3 +1,8 @@
+body{
+    background-color: black;
+    color: white;
+}
+
 @font-face {
             font-family:'monster_friend_foreregular';
             src: url('font/monsterfriendfore-webfont.woff2') format('woff2'),
@@ -12,20 +17,6 @@
             font-family: 'monster_friend_foreregular';
         }
 
-        body{
-            background-color: black;
-            color: white;
-        }
-
-
-.patate
-{
-    
-    font-family:'monster_friend_foreregular';
-}
 .form{
-    width: 300px;px;
-    height: 0px;px;
+    width: 200px;
 }
-
-
